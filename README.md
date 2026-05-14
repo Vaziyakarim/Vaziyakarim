@@ -22,7 +22,6 @@ I'm a Computer Science student interested in programming, data analysis, and bui
 * **Student Churn Prediction** — Machine learning project for predicting student retention using Python and data analysis
 * **Dynamic Pricing Engine** — Pricing system developed using Java, Spring Boot, and MySQL
 * **Notification Extraction Tool** — Python tool for extracting key information from lengthy notifications
-* **Bluetrace – AI Water Monitoring** — Smart dashboard project focused on water quality monitoring
 
 ## 📚 About Me
 
